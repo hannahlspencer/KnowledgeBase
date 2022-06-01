@@ -48,7 +48,6 @@
 * [Guitar](g/guitar/README.md)
   * [Gear](g/guitar/gear/README.md)
     * [Pedals](g/guitar/gear/pedals.md)
-  * [Page 1](g/guitar/page-1.md)
   * [Bass Guitar](g/guitar/bass-guitar.md)
   * [Sheet music](g/guitar/sheet-music.md)
 * [Git](g/git.md)
