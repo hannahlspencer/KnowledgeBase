@@ -1,8 +1,10 @@
 # Table of contents
 
+* [KnowledgeBase](README.md)
+
 ## A
 
-* [Algorithms](README.md)
+* [Algorithms](<README (1).md>)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 
 ## B
@@ -58,6 +60,10 @@
 * [Hot sauces](h/hot-sauces.md)
 * [Health](h/health.md)
 
+## I
+
+* [Interviews](i/interviews.md)
+
 ## J
 
 * [Java](j/java.md)
@@ -105,7 +111,3 @@
 ## W
 
 * [Writing](w/writing.md)
-
-## I
-
-* [Interviews](i/interviews.md)
