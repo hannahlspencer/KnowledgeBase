@@ -3,6 +3,8 @@
 #### Articles
 
 * [Top 20 books every software developer should read](https://medium.com/the-next-tech/top-20-books-a-software-developer-must-read-9e223c63dc9d)
+* [Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)
+* [Software architecture](https://medium.com/@olgamitroshyna/software-architecture-i-wish-i-had-known-about-this-earlier-4df43eae57db)
 
 #### Videos
 
