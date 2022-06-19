@@ -107,6 +107,11 @@
 * [Travel](t/travel/README.md)
   * [Been](t/travel/been.md)
 
+## V
+
+* [Video games](v/video-games/README.md)
+  * [Music](v/video-games/music.md)
+
 ## W
 
 * [Writing](w/writing.md)
