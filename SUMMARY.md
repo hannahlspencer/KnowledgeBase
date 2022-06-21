@@ -1,10 +1,10 @@
 # Table of contents
 
-* [KnowledgeBase](README.md)
+* [Knowledge Base](README.md)
 
 ## A
 
-* [Algorithms](<README (1).md>)
+* [Algorithms](a/algorithms.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
 
 ## B
