@@ -96,6 +96,7 @@
 ## R
 
 * [Reality Composer](r/reality-composer.md)
+* [Ruby](r/ruby.md)
 
 ## S
 
