@@ -31,3 +31,9 @@ CAP theorem states that distributed databases can one have one of three properti
 3. Partition tolerance (the system continues to work despite network failures)
 
 NoSQL can not provide consistency and high availability together.
+
+### Resources
+
+#### Articles
+
+* [When to use Cassandra](https://medium.com/geekculture/system-design-solutions-when-to-use-cassandra-and-when-not-to-496ba51ef07a)

@@ -30,6 +30,7 @@
 
 ## D
 
+* [Data Structures](d/data-structures.md)
 * [Deadlands](d/deadlands.md)
 * [Drumming](d/drumming.md)
 * [Databases](d/databases.md)
@@ -88,6 +89,7 @@
 
 * [Programming](p/programming/README.md)
   * [Technology Blogs](p/programming/technology-blogs.md)
+  * [Object Oriented](p/programming/object-oriented.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
 * [Piano](p/piano/README.md)
