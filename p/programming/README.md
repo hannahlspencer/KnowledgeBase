@@ -9,9 +9,11 @@
 * [Best books for software engineers](https://blog.gyanendra.tech/best-books-for-software-engineers-f9e52493c7a)
 * [How to read technical books effectively](https://betterprogramming.pub/how-to-read-technical-books-effectively-11167a8ea27c)
 * [Why I recycle programming problems](https://medium.com/free-code-camp/why-i-recycle-programming-problems-7785e04e451d)
+* [Rest vs GraphQL va gRPc](https://blog.bitsrc.io/rest-vs-graphql-vs-grpc-684edfacf810)
 
-#### Videos
 
+
+* #### Videos
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4\&list=PLFn4WtkfhhSb8GTkV0fSKLhsQ6xYKEjc7)
 
 #### Books
