@@ -27,6 +27,7 @@
     * [JFugue](c/creative-programming/programmatic-music/jfugue.md)
 * [Cardio](c/cardio.md)
 * [CSS](c/css.md)
+* [Command line](c/command-line.md)
 
 ## D
 
