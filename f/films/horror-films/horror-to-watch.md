@@ -21,7 +21,6 @@
 * [Let the Corpses Tan](https://www.imdb.com/title/tt5827212/) - Shudder
 * [Jacob's Ladder](https://www.imdb.com/title/tt0099871/) - Amazon paid for
 * [Hausu](https://www.imdb.com/title/tt0076162/) - BFI Player
-* [Piggy](https://www.imdb.com/title/tt10399608/) - Amazon Prime
 * [Hatching](https://www.imdb.com/title/tt12519030/) - TBC
 * [Resurrection](https://www.imdb.com/title/tt11540726/) - BFI Player
 * [Amulet](https://www.imdb.com/title/tt8332802) - Amazon paid for
