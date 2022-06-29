@@ -4,6 +4,7 @@
 
 * [Django girls tutorial](https://tutorial.djangogirls.org/en/)
 * [Getting started with Django](http://www.gettingstartedwithdjango.com/introduction-and-launch.html)
+* [Python Django tutorial for beginners](https://www.youtube.com/watch?v=rHux0gMZ3Eg\&t=1561s)
 
 #### Recommended Reading
 
