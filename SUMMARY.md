@@ -64,7 +64,8 @@
 
 ## I
 
-* [Interviews](i/interviews.md)
+* [Interviews](i/interviews/README.md)
+  * [System Design](i/interviews/system-design.md)
 
 ## J
 

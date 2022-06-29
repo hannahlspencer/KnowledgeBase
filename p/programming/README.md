@@ -10,6 +10,8 @@
 * [How to read technical books effectively](https://betterprogramming.pub/how-to-read-technical-books-effectively-11167a8ea27c)
 * [Why I recycle programming problems](https://medium.com/free-code-camp/why-i-recycle-programming-problems-7785e04e451d)
 * [Rest vs GraphQL va gRPc](https://blog.bitsrc.io/rest-vs-graphql-vs-grpc-684edfacf810)
+* [The Clean Architecture - A Beginners Guide](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165)
+* [Free books that will take your DevOps game to the next level](https://vladimir-mukhin.medium.com/free-books-that-will-boost-your-devops-game-to-the-next-level-5940482b0f96)
 
 
 

@@ -19,3 +19,5 @@
 #### Courses
 
 * [Python full course for beginners](https://www.youtube.com/watch?v=\_uQrJ0TkZlc)
+* [Harvard Introduction to programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
+* [Automate with Python – Full Course for Beginners](https://youtu.be/PXMJ6FS7llk)

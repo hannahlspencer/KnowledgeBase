@@ -36,3 +36,11 @@
 * [Memories of a Murder](https://www.imdb.com/title/tt0353969/) - Apple TV
 * [I Saw the Devil](https://www.imdb.com/title/tt1588170/) - Apple TV
 * [Kill List](https://www.imdb.com/title/tt1788391/) - Apple TV
+* [Spring](https://www.imdb.com/title/tt3395184/) - Apple TV
+* [Housebound](https://www.imdb.com/title/tt3504048) - TBC
+* [The Final Girls](https://www.imdb.com/title/tt2118624/) - Apple TV
+* [Army of Darkness](https://www.imdb.com/title/tt0106308/) - Apple TV
+* [Rare Exports](https://www.imdb.com/title/tt1401143/) - Amazon Paid For
+* [Mayhem](https://www.imdb.com/title/tt4348012/) - Amazon Paid For
+* [Wes Craven's New Nightmare](https://www.imdb.com/title/tt0111686/) - Youtube Paid For
+* [Ready or Not](https://www.imdb.com/title/tt7798634/) - Disney+

@@ -2,6 +2,8 @@
 
 #### Articles
 
+* [Cracking the Google coding intervi](https://www.educative.io/blog/google-coding-interview)[ew](https://www.educative.io/blog/google-coding-interview)
+* [How to crack the Microsoft interview in just two months](https://navita-pareek4.medium.com/how-to-crack-microsoft-interview-in-just-2-months-77fcec5dda16)
 * [Top 50 data structure and algorithms interview questions for programmers](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 #### Quora
