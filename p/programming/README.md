@@ -3,6 +3,8 @@
 #### Articles
 
 * [Top 20 books every software developer should read](https://medium.com/the-next-tech/top-20-books-a-software-developer-must-read-9e223c63dc9d)
+* [How to deploy fullstack projects for free](https://medium.com/@AliBuilds/how-i-deploy-my-full-stack-projects-for-free-e07bde56b389)
+* [Backend developer complete roadmap](https://medium.com/@punit3299/backend-developer-complete-roadmap-dc202974d412)
 * [Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)
 * [Software architecture](https://medium.com/@olgamitroshyna/software-architecture-i-wish-i-had-known-about-this-earlier-4df43eae57db)
 * [Five books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer)
@@ -12,9 +14,7 @@
 * [Rest vs GraphQL va gRPc](https://blog.bitsrc.io/rest-vs-graphql-vs-grpc-684edfacf810)
 * [The Clean Architecture - A Beginners Guide](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165)
 * [Free books that will take your DevOps game to the next level](https://vladimir-mukhin.medium.com/free-books-that-will-boost-your-devops-game-to-the-next-level-5940482b0f96)
-
-
-
+* [How To Pass The AWS Solutions Architect Associate Exam](https://medium.com/geekculture/how-to-pass-the-aws-solutions-architect-associate-exam-71e68badf0e1)
 * #### Videos
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4\&list=PLFn4WtkfhhSb8GTkV0fSKLhsQ6xYKEjc7)
 

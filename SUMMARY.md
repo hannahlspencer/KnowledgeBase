@@ -92,6 +92,7 @@
 * [Programming](p/programming/README.md)
   * [Technology Blogs](p/programming/technology-blogs.md)
   * [Object Oriented](p/programming/object-oriented.md)
+  * [APIs](p/programming/apis.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
 * [Piano](p/piano/README.md)
@@ -105,6 +106,7 @@
 ## S
 
 * [Strength Training](s/strength-training.md)
+* [Security](s/security.md)
 
 ## T
 
