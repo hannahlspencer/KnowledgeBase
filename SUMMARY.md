@@ -54,6 +54,7 @@
   * [Bass Guitar](g/guitar/bass-guitar.md)
   * [Sheet music](g/guitar/sheet-music.md)
 * [Git](g/git.md)
+* [GraphQL](g/graphql.md)
 
 ## H
 

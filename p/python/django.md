@@ -1,5 +1,9 @@
 # Django
 
+#### Articles
+
+* [How to structure Django projects](https://www.jamesbeith.co.uk/blog/how-to-structure-django-projects/)
+
 #### Courses
 
 * [Django girls tutorial](https://tutorial.djangogirls.org/en/)
