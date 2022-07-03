@@ -1,5 +1,33 @@
 # Python
 
+### Python data structures
+
+#### Built-in data structures
+
+* **List**
+  * Store data of different data types in a sequential manner
+  * Are indexed and mutable
+  * my\_list = \[1, 2, 3, 'example', 3.132] #creating list with data
+  * my\_list = \[] #creating empty list
+* **Tuple**
+  * Immutable lists
+  * Are indexed
+  * my\_tuple = (1, 2, 3) #creating tuple
+  * You can add tuples together to make a bigger tuple
+* **Dictionary**
+  * Store key-value pairs
+  * Are mutable
+  * my\_dict = {} #empty dictionary
+  * my\_dict = {1: 'Python', 2: 'Java'} #dictionary with elements
+*   **Set**
+
+    * a collection of unordered elements that are unique
+    * my\_set = {1, 2, 3, 4, 5, 5, 5} #create set
+
+
+
+### Resources
+
 #### Articles
 
 * [The good way to structure a Python project](https://towardsdatascience.com/the-good-way-to-structure-a-python-project-d914f27dfcc9)
