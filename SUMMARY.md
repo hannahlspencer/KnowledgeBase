@@ -31,6 +31,7 @@
 
 ## D
 
+* [Distributed Systems](d/distributed-systems.md)
 * [Data Structures](d/data-structures.md)
 * [Deadlands](d/deadlands.md)
 * [Drumming](d/drumming.md)
