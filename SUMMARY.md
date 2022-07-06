@@ -17,25 +17,26 @@
 
 ## C
 
+* [Cardio](c/cardio.md)
 * [Climbing](c/climbing/README.md)
   * [Gyms](c/climbing/gyms.md)
+* [Command line](c/command-line.md)
 * [Computer Science](c/computer-science.md)
 * [Cooking](c/cooking/README.md)
   * [Recipes](c/cooking/recipes.md)
 * [Creative Programming](c/creative-programming/README.md)
   * [Programmatic Music](c/creative-programming/programmatic-music/README.md)
     * [JFugue](c/creative-programming/programmatic-music/jfugue.md)
-* [Cardio](c/cardio.md)
 * [CSS](c/css.md)
-* [Command line](c/command-line.md)
 
 ## D
 
-* [Distributed Systems](d/distributed-systems.md)
 * [Data Structures](d/data-structures.md)
-* [Deadlands](d/deadlands.md)
-* [Drumming](d/drumming.md)
 * [Databases](d/databases.md)
+* [Deadlands](d/deadlands.md)
+* [Distributed Systems](d/distributed-systems/README.md)
+  * [Load Balancing](d/distributed-systems/load-balancing.md)
+* [Drumming](d/drumming.md)
 
 ## F
 
@@ -49,20 +50,20 @@
 
 ## G
 
+* [Git](g/git.md)
+* [GraphQL](g/graphql.md)
 * [Guitar](g/guitar/README.md)
   * [Gear](g/guitar/gear/README.md)
     * [Pedals](g/guitar/gear/pedals.md)
   * [Bass Guitar](g/guitar/bass-guitar.md)
   * [Sheet music](g/guitar/sheet-music.md)
-* [Git](g/git.md)
-* [GraphQL](g/graphql.md)
 
 ## H
 
-* [Hive](h/hive.md)
 * [Happiness](h/happiness.md)
-* [Hot sauces](h/hot-sauces.md)
 * [Health](h/health.md)
+* [Hive](h/hive.md)
+* [Hot sauces](h/hot-sauces.md)
 
 ## I
 
@@ -86,19 +87,19 @@
 
 ## M
 
-* [Music](m/music.md)
 * [Memory](m/memory.md)
+* [Music](m/music.md)
 
 ## P
 
+* [Piano](p/piano/README.md)
+  * [Sheet Music](p/piano/sheet-music.md)
 * [Programming](p/programming/README.md)
   * [Technology Blogs](p/programming/technology-blogs.md)
   * [Object Oriented](p/programming/object-oriented.md)
   * [APIs](p/programming/apis.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
-* [Piano](p/piano/README.md)
-  * [Sheet Music](p/piano/sheet-music.md)
 
 ## R
 
@@ -107,8 +108,8 @@
 
 ## S
 
-* [Strength Training](s/strength-training.md)
 * [Security](s/security.md)
+* [Strength Training](s/strength-training.md)
 
 ## T
 
