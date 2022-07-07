@@ -35,6 +35,7 @@
 * [Databases](d/databases.md)
 * [Deadlands](d/deadlands.md)
 * [Distributed Systems](d/distributed-systems/README.md)
+  * [Caching](d/distributed-systems/caching.md)
   * [Load Balancing](d/distributed-systems/load-balancing.md)
 * [Drumming](d/drumming.md)
 
