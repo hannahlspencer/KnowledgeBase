@@ -32,12 +32,12 @@
 ## D
 
 * [Data Structures](d/data-structures.md)
-* [Databases](d/databases.md)
+* [Databases](d/databases/README.md)
+  * [Sharding/Data partitioning](d/databases/sharding-data-partitioning.md)
 * [Deadlands](d/deadlands.md)
 * [Distributed Systems](d/distributed-systems/README.md)
   * [Caching](d/distributed-systems/caching.md)
   * [Load Balancing](d/distributed-systems/load-balancing.md)
-  * [Sharding/Data partitioning](d/distributed-systems/sharding-data-partitioning.md)
 * [Drumming](d/drumming.md)
 
 ## F
@@ -124,6 +124,7 @@
 
 * [Video games](v/video-games/README.md)
   * [Music](v/video-games/music.md)
+* [Virtual Reality](v/virtual-reality.md)
 
 ## W
 
