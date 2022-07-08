@@ -37,6 +37,7 @@
 * [Distributed Systems](d/distributed-systems/README.md)
   * [Caching](d/distributed-systems/caching.md)
   * [Load Balancing](d/distributed-systems/load-balancing.md)
+  * [Sharding/Data partitioning](d/distributed-systems/sharding-data-partitioning.md)
 * [Drumming](d/drumming.md)
 
 ## F
