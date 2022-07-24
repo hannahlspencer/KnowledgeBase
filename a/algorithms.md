@@ -2,7 +2,7 @@
 
 #### Courses
 
-* [Coursera Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/week/1)
+* [Coursera - Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/week/1)
 * [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Udacity Intro to Algorithms](https://learn.udacity.com/courses/cs215)
 * [Graph theory algorithms](https://www.youtube.com/watch?v=DgXR2OWQnLc\&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
