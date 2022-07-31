@@ -36,6 +36,7 @@
   * [Sharding/Data partitioning](d/databases/sharding-data-partitioning.md)
 * [Deadlands](d/deadlands.md)
 * [Distributed Systems](d/distributed-systems/README.md)
+  * [Long-Polling, WebSockets, and Server-Sent Events](d/distributed-systems/long-polling-websockets-and-server-sent-events.md)
   * [Caching](d/distributed-systems/caching.md)
   * [Load Balancing](d/distributed-systems/load-balancing.md)
   * [Proxies](d/distributed-systems/proxies.md)
