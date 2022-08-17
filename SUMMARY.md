@@ -102,6 +102,7 @@
   * [Technology Blogs](p/programming/technology-blogs.md)
   * [Object Oriented](p/programming/object-oriented.md)
   * [APIs](p/programming/apis.md)
+  * [VS Code](p/programming/vs-code.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
 
