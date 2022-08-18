@@ -40,6 +40,8 @@
   * [Caching](d/distributed-systems/caching.md)
   * [Load Balancing](d/distributed-systems/load-balancing.md)
   * [Proxies](d/distributed-systems/proxies.md)
+  * [Redundancy](d/distributed-systems/redundancy.md)
+  * [Consistent Hashing](d/distributed-systems/consistent-hashing.md)
 * [Drumming](d/drumming.md)
 
 ## F
