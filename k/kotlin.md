@@ -34,11 +34,12 @@ Good for performing actions that take the context object as an argument - use fo
 
 #### Articles
 
-* [9 Java patterns Kotlin made obselete](https://spitzbueb.medium.com/9-java-patterns-in-kotlin-eac0cca1599f)
+* [9 Java patterns Kotlin made obsolete](https://spitzbueb.medium.com/9-java-patterns-in-kotlin-eac0cca1599f)
 * [Stop writing hard to read Kotlin](https://towardsdev.com/stop-writing-hard-to-read-kotlin-900842fb82f)
 * [Reduce and Fold in Kotlin](https://medium.com/@sujitpanda/do-you-know-what-is-reduce-and-fold-method-is-in-kotlin-c3aec2dc1df1)
 * [Tips and tricks for Kotlin efficiency](https://medium.com/simform-engineering/kotlin-tips-and-tricks-for-efficient-programming-c4eefb27ea1b)
 * [Deprecating loops in Kotlin](https://medium.com/@lucgirardin/in-kotlin-loops-are-deprecated-dae88cd5ae9c)
+* [Using Elasticsearch with Kotlin](https://medium.com/geekculture/using-elasticsearch-with-kotlin-f802a738b389)
 
 #### Courses
 
