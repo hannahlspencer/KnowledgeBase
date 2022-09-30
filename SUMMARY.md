@@ -28,6 +28,8 @@
   * [Programmatic Music](c/creative-programming/programmatic-music/README.md)
     * [JFugue](c/creative-programming/programmatic-music/jfugue.md)
 * [CSS](c/css.md)
+* [Cloud Computing](c/cloud-computing/README.md)
+  * [Microsoft Azure](c/cloud-computing/microsoft-azure.md)
 
 ## D
 
@@ -125,6 +127,7 @@
 * [Testing](t/testing.md)
 * [Travel](t/travel/README.md)
   * [Been](t/travel/been.md)
+* [Terrafor](t/terrafor.md)
 
 ## V
 
