@@ -108,7 +108,8 @@
   * [Object Oriented](p/programming/object-oriented.md)
   * [APIs](p/programming/apis.md)
   * [VS Code](p/programming/vs-code.md)
-  * [Clean Code](p/programming/clean-code.md)
+  * [Clean Code](p/programming/clean-code/README.md)
+    * [Functions](p/programming/clean-code/functions.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
 

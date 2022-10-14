@@ -60,8 +60,3 @@ is much more descriptive than
 
 Use of these can be enforced by making other constructors private
 
-### Functions
-
-First rule of functions is that they should be small. Functions should do one thing, well, and only that one thing.
-
-Try not to mix levels of abstraction in functions. Every function should be followed by those at the next level of abstraction for readability.
