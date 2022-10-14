@@ -108,6 +108,7 @@
   * [Object Oriented](p/programming/object-oriented.md)
   * [APIs](p/programming/apis.md)
   * [VS Code](p/programming/vs-code.md)
+  * [Clean Code](p/programming/clean-code.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
 
@@ -127,7 +128,7 @@
 * [Testing](t/testing.md)
 * [Travel](t/travel/README.md)
   * [Been](t/travel/been.md)
-* [Terrafor](t/terrafor.md)
+* [Terraform](t/terraform.md)
 
 ## V
 
