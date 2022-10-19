@@ -29,7 +29,8 @@
     * [JFugue](c/creative-programming/programmatic-music/jfugue.md)
 * [CSS](c/css.md)
 * [Cloud Computing](c/cloud-computing/README.md)
-  * [Microsoft Azure](c/cloud-computing/microsoft-azure.md)
+  * [Microsoft Azure](c/cloud-computing/microsoft-azure/README.md)
+    * [Virtual Machines](c/cloud-computing/microsoft-azure/virtual-machines.md)
 
 ## D
 
