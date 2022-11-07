@@ -110,6 +110,7 @@
   * [APIs](p/programming/apis.md)
   * [VS Code](p/programming/vs-code.md)
   * [Clean Code](p/programming/clean-code/README.md)
+    * [Comments and Formatting](p/programming/clean-code/comments-and-formatting.md)
     * [Functions](p/programming/clean-code/functions.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
