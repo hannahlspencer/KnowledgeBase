@@ -57,6 +57,7 @@
     * [2020](f/films/watched/2020.md)
     * [2021](f/films/watched/2021.md)
     * [2022](f/films/watched/2022.md)
+    * [2023](f/films/watched/2023.md)
 
 ## G
 
