@@ -14,6 +14,7 @@
     * [2020](b/books/read/2020.md)
     * [2021](b/books/read/2021.md)
     * [2022](b/books/read/2022.md)
+    * [2023](b/books/read/2023.md)
 
 ## C
 
