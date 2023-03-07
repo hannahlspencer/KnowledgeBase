@@ -52,8 +52,7 @@
 ## F
 
 * [Films](f/films/README.md)
-  * [Horror Films](f/films/horror-films/README.md)
-    * [Horror to-watch](f/films/horror-films/horror-to-watch.md)
+  * [Horror Films](f/films/horror-films.md)
   * [Watched](f/films/watched/README.md)
     * [2020](f/films/watched/2020.md)
     * [2021](f/films/watched/2021.md)
