@@ -41,7 +41,7 @@ To build an image from a Dockerfile, go to the file containing the Dockerfile an
 
 &#x20;`docker build -t {file}`
 
-``
+
 
 These parameters can be stacked, for example, if you wanted to run a container named blue-app using image example/simple-webapp and also wanted to set the environment variable APP\_COLOR to blue, make the application available on port 38282 on the host with the application listening on port 8080 you would use:
 

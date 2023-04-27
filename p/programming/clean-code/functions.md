@@ -13,13 +13,13 @@ Functions with one argument are called monadic. Reasons to pass a single argumen
 
 For example, `boolean fileExists("MyFile")`
 
-``
+
 
 2\. Transforming the argument into something else and returning it
 
 For example, `InputStream fileOpen("MyFile")`
 
-``
+
 
 3\. An event with no return value where the arguments can be used to alter the state of the system
 
