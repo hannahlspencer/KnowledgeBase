@@ -6,6 +6,7 @@
 
 * [Algorithms](a/algorithms.md)
 * [Artificial Intelligence](a/artificial-intelligence.md)
+* [Azdo Pipelines](a/azdo-pipelines.md)
 
 ## B
 
