@@ -5,7 +5,8 @@
 ## A
 
 * [Algorithms](a/algorithms.md)
-* [Artificial Intelligence](a/artificial-intelligence.md)
+* [Artificial Intelligence](a/artificial-intelligence/README.md)
+  * [Glossary](a/artificial-intelligence/glossary.md)
 * [Azdo Pipelines](a/azdo-pipelines.md)
 
 ## B
@@ -16,6 +17,7 @@
     * [2021](b/books/read/2021.md)
     * [2022](b/books/read/2022.md)
     * [2023](b/books/read/2023.md)
+    * [2024](b/books/read/2024.md)
 
 ## C
 
@@ -59,6 +61,7 @@
     * [2021](f/films/watched/2021.md)
     * [2022](f/films/watched/2022.md)
     * [2023](f/films/watched/2023.md)
+    * [2024](f/films/watched/2024.md)
 
 ## G
 
