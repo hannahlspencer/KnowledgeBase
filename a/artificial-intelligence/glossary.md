@@ -12,7 +12,7 @@ For example, in the sentence "The cat sat on the mat," a chunking algorithm migh
 
 #### Corpus
 
-A large and structured collection of text documents or other forms of data that are used for training, testing, or evaluating natural language processing (NLP) and machine learning models
+A large and structured collection of text documents or other forms of data that are used for training, testing, or evaluating NLP and machine learning models
 
 #### Embedding
 
@@ -24,6 +24,15 @@ The numbers link together as a multidimensional map for relationships. For examp
 * Puppy: \[0.3, 0.5, 0.9, 0.8, 0.4]
 
 Vectors have hundreds of points. A database full of embeddings is called a vector database which can be used to search, cluster, and classify.&#x20;
+
+#### &#x20;QA Pair
+
+A QA pair, short for Question-Answer pair, is a pair of related elements in which a question is accompanied by its corresponding answer.
+
+For example, in a QA dataset:
+
+* **Question:** "What is the capital of France?"&#x20;
+* **Answer:** "The capital of France is Paris."
 
 #### RAG
 
