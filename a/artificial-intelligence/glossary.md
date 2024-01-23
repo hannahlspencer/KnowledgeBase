@@ -1,5 +1,15 @@
 # Glossary
 
+#### Chunking
+
+The identifying and extracting of short phrases or chunks of words from sentences based on their syntactic structure.
+
+For example, in the sentence "The cat sat on the mat," a chunking algorithm might identify the chunks as follows:
+
+* Noun Phrase (NP): "The cat"
+* Verb Phrase (VP): "sat"
+* Prepositional Phrase (PP): "on the mat"
+
 #### Corpus
 
 A large and structured collection of text documents or other forms of data that are used for training, testing, or evaluating natural language processing (NLP) and machine learning models
