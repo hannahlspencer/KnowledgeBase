@@ -25,6 +25,12 @@ The numbers link together as a multidimensional map for relationships. For examp
 
 Vectors have hundreds of points. A database full of embeddings is called a vector database which can be used to search, cluster, and classify.&#x20;
 
+
+
+#### MRC - Machine Reading Comprehension
+
+Machine Reading Comprehension involves training models to understand the context of a passage or document and to be able to extract relevant information to answer questions accurately.
+
 #### &#x20;QA Pair
 
 A QA pair, short for Question-Answer pair, is a pair of related elements in which a question is accompanied by its corresponding answer.
