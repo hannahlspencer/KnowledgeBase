@@ -25,11 +25,27 @@ The numbers link together as a multidimensional map for relationships. For examp
 
 Vectors have hundreds of points. A database full of embeddings is called a vector database which can be used to search, cluster, and classify.&#x20;
 
+#### Ground Truth
 
+The actual or real-world data that is used to evaluate the performance of a machine learning model. Ground truth is considered the correct information about the target variable or outcome that the model is trying to predict. For example in image classification**:**
+
+* Ground truth: Labels or categories assigned to each image in the dataset by human annotators.
+* Example: If the model is trained to classify images of animals, the ground truth would indicate the correct animal category for each image.
+
+#### Model Context Window
+
+This is the range of input elements or tokens that a model considers when making predictions. For example, in a language model, the context window determines how many previous and/or future words or tokens the model takes into account when predicting the next word in a sequence. The choice of the context window size can impact the model's ability to understand long-range dependencies in the data.
 
 #### MRC - Machine Reading Comprehension
 
 Machine Reading Comprehension involves training models to understand the context of a passage or document and to be able to extract relevant information to answer questions accurately.
+
+#### Negative Sample
+
+An instance that represents the absence of a particular characteristic. In binary classification problems, negative samples are typically instances that do not exhibit the behavior or characteristic of interest. For example, in spam detection:
+
+* Positive sample: An email that is classified as spam.
+* Negative sample: An email that is not spam.
 
 #### &#x20;QA Pair
 
@@ -43,8 +59,6 @@ For example, in a QA dataset:
 #### RAG
 
 RAG stands for Retrieval Augmented Generation. It is an AI design pattern that combines an LLM and external knowledge retrieval. More information in a Microsoft context: [https://learn.microsoft.com/en-us/azure/databricks/generative-ai/retrieval-augmented-generation](https://learn.microsoft.com/en-us/azure/databricks/generative-ai/retrieval-augmented-generation#What%20is%20Retrieval%20Augmented%20Generation?)
-
-
 
 #### Stop word list
 
