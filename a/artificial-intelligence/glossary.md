@@ -62,4 +62,10 @@ RAG stands for Retrieval Augmented Generation. It is an AI design pattern that c
 
 #### Stop word list
 
-A stop word list is a collection of common words that are often filtered out or excluded from text data during the preprocessing phase in NLP and information retrieval tasks because they are not meaningful on their own eg. articles (e.g., "a," "an," "the"), prepositions (e.g., "in," "on," "under"), conjunctions (e.g., "and," "but," "or"), and other frequently occurring words that don't carry significant semantic meaning on their own.&#x20;
+A stop word list is a collection of common words that are often filtered out or excluded from text data during the preprocessing phase in NLP and information retrieval tasks because they are not meaningful on their own eg. articles (e.g., "a," "an," "the"), prepositions (e.g., "in," "on," "under"), conjunctions (e.g., "and," "but," "or"), and other frequently occurring words that don't carry significant semantic meaning on their own.
+
+#### Topic Modelling
+
+Topic modeling is a frequently used approach to discover hidden semantic patterns portrayed by a text corpus and automatically identify topics that exist inside it.
+
+Namely, it’s a type of statistical modeling that leverages unsupervised machine learning to analyze and identify clusters or groups of similar words within a body of text.
