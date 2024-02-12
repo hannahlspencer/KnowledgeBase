@@ -21,13 +21,9 @@
 
 ## C
 
-* [Cardio](c/cardio.md)
-* [Climbing](c/climbing/README.md)
-  * [Gyms](c/climbing/gyms.md)
+* [Climbing](c/climbing.md)
 * [Command line](c/command-line.md)
 * [Computer Science](c/computer-science.md)
-* [Cooking](c/cooking/README.md)
-  * [Recipes](c/cooking/recipes.md)
 * [Creative Programming](c/creative-programming/README.md)
   * [Programmatic Music](c/creative-programming/programmatic-music/README.md)
     * [JFugue](c/creative-programming/programmatic-music/jfugue.md)

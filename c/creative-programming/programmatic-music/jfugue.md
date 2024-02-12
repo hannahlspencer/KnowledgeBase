@@ -1,3 +1,3 @@
 # JFugue
 
-TBC
+[GitHub resource](https://github.com/dmkoelle/jfugue)
