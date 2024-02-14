@@ -72,7 +72,6 @@
 ## H
 
 * [Happiness](h/happiness.md)
-* [Health](h/health.md)
 * [Hive](h/hive.md)
 * [Hot sauces](h/hot-sauces.md)
 
@@ -93,8 +92,6 @@
 ## L
 
 * [Language](l/language.md)
-* [London](l/london/README.md)
-  * [To Do](l/london/to-do.md)
 
 ## M
 
@@ -106,7 +103,6 @@
 * [Piano](p/piano/README.md)
   * [Sheet Music](p/piano/sheet-music.md)
 * [Programming](p/programming/README.md)
-  * [Technology Blogs](p/programming/technology-blogs.md)
   * [Object Oriented](p/programming/object-oriented.md)
   * [APIs](p/programming/apis.md)
   * [VS Code](p/programming/vs-code.md)
@@ -130,8 +126,6 @@
 
 * [Team Working](t/team-working.md)
 * [Testing](t/testing.md)
-* [Travel](t/travel/README.md)
-  * [Been](t/travel/been.md)
 * [Terraform](t/terraform.md)
 
 ## V
@@ -139,7 +133,3 @@
 * [Video games](v/video-games/README.md)
   * [Music](v/video-games/music.md)
 * [Virtual Reality](v/virtual-reality.md)
-
-## W
-
-* [Writing](w/writing.md)
