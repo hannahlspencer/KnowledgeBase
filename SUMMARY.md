@@ -111,6 +111,9 @@
     * [Functions](p/programming/clean-code/functions.md)
 * [Python](p/python/README.md)
   * [Django](p/python/django.md)
+  * [Packages](p/python/packages/README.md)
+    * [boilerpy3](p/python/packages/boilerpy3.md)
+* [Packages](p/packages.md)
 
 ## R
 
