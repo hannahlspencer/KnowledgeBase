@@ -21,6 +21,8 @@
 
 ## C
 
+* [Concurrency](c/concurrency/README.md)
+  * [Semaphores](c/concurrency/semaphores.md)
 * [Climbing](c/climbing.md)
 * [Command line](c/command-line.md)
 * [Computer Science](c/computer-science.md)
@@ -31,8 +33,8 @@
 * [Cloud Computing](c/cloud-computing/README.md)
   * [Microsoft Azure](c/cloud-computing/microsoft-azure/README.md)
     * [Virtual Machines](c/cloud-computing/microsoft-azure/virtual-machines.md)
-* [Concurrency](c/concurrency/README.md)
-  * [Kotlin Coroutines](c/concurrency/kotlin-coroutines.md)
+* [Concurrency](c/concurrency-1/README.md)
+  * [Kotlin Coroutines](c/concurrency-1/kotlin-coroutines.md)
 
 ## D
 
