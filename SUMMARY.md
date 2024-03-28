@@ -23,6 +23,7 @@
 
 * [Concurrency](c/concurrency/README.md)
   * [Semaphores](c/concurrency/semaphores.md)
+  * [Patterns](c/concurrency/patterns.md)
 * [Climbing](c/climbing.md)
 * [Command line](c/command-line.md)
 * [Computer Science](c/computer-science.md)

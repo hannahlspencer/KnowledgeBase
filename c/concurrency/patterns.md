@@ -1,0 +1,7 @@
+# Patterns
+
+* **Producer-Consumer**: In this pattern, one or more producer threads generate data and put it into a shared data structure, while one or more consumer threads retrieve and process the data. Synchronization mechanisms like locks or semaphores are used to coordinate access to the shared data structure.
+* **Thread Pool**: A thread pool manages a group of worker threads, reusing them to execute tasks from a task queue. This pattern reduces the overhead of creating and destroying threads for each task, improving performance and resource utilization.
+* **Reader-Writer Lock**: This pattern allows multiple readers to access a shared resource concurrently but ensures exclusive access for a writer. It improves concurrency by allowing concurrent read access while maintaining data consistency.
+* **Immutable Object**: Immutable objects are objects whose state cannot be modified after creation. They eliminate the need for synchronization in multithreaded environments since multiple threads can safely access immutable objects concurrently without risk of data corruption.
+* **Futures and Promises**: Futures represent the result of an asynchronous computation, allowing the program to continue executing while waiting for the result. Promises are used to set the value of a future asynchronously. This pattern simplifies asynchronous programming by providing a convenient abstraction for handling asynchronous tasks.
