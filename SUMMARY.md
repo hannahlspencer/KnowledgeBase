@@ -56,7 +56,9 @@
 * [Docker](d/docker.md)
 * [Designing Data-Intensive Applications](d/designing-data-intensive-applications/README.md)
   * [Reliable, Scalable, Maintainable Applications](d/designing-data-intensive-applications/reliable-scalable-maintainable-applications.md)
-  * [Replication](d/designing-data-intensive-applications/replication.md)
+  * [Replication](d/designing-data-intensive-applications/replication/README.md)
+    * [Leader-based replication](d/designing-data-intensive-applications/replication/leader-based-replication.md)
+  * [Replication log methods](d/designing-data-intensive-applications/replication-log-methods.md)
 
 ## F
 
