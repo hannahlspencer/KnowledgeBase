@@ -54,6 +54,9 @@
   * [Consistent Hashing](d/distributed-systems/consistent-hashing.md)
 * [Drumming](d/drumming.md)
 * [Docker](d/docker.md)
+* [Designing Data-Intensive Applications](d/designing-data-intensive-applications/README.md)
+  * [Reliable, Scalable, Maintainable Applications](d/designing-data-intensive-applications/reliable-scalable-maintainable-applications.md)
+  * [Replication](d/designing-data-intensive-applications/replication.md)
 
 ## F
 
