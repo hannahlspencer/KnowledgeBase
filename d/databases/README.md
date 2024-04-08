@@ -32,6 +32,8 @@ CAP theorem states that distributed databases can one have one of three properti
 
 NoSQL can not provide consistency and high availability together.
 
+* [The Cap Theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
+
 #### Indexes
 
 When database performance is no longer satisfactory one of the first things to do is indexing. The goal of creating an index is to make it faster to search through the table. Indexes can be created using one or more columns to provide the basis for random lookups and efficient access of ordered records.
