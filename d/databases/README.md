@@ -47,3 +47,4 @@ Indexes are a necessity for data sets that are many terabytes in size with small
 #### Articles
 
 * [When to use Cassandra](https://medium.com/geekculture/system-design-solutions-when-to-use-cassandra-and-when-not-to-496ba51ef07a)
+* [Database design](https://www.geeksforgeeks.org/complete-reference-to-databases-in-designing-systems/)
