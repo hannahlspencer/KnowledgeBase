@@ -60,6 +60,7 @@
   * [Replication](d/designing-data-intensive-applications/replication/README.md)
     * [Leader-based replication](d/designing-data-intensive-applications/replication/leader-based-replication.md)
   * [Replication log methods](d/designing-data-intensive-applications/replication-log-methods.md)
+* [Data Engineering](d/data-engineering.md)
 
 ## F
 
