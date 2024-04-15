@@ -4,7 +4,8 @@
 
 ## A
 
-* [Algorithms](a/algorithms.md)
+* [Algorithms](a/algorithms/README.md)
+  * [BFS & DFS](a/algorithms/bfs-and-dfs.md)
 * [Artificial Intelligence](a/artificial-intelligence/README.md)
   * [Functions with chat models](a/artificial-intelligence/functions-with-chat-models.md)
   * [Glossary](a/artificial-intelligence/glossary.md)
