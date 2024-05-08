@@ -134,6 +134,11 @@
 
 * [Reality Composer](r/reality-composer.md)
 * [Ruby](r/ruby.md)
+* [Recipes](r/recipes/README.md)
+  * [Treats](r/recipes/treats.md)
+  * [Dinners](r/recipes/dinners/README.md)
+    * [Green Miso Beans](r/recipes/dinners/green-miso-beans.md)
+    * [Chickpea Miso Pasta](r/recipes/dinners/chickpea-miso-pasta.md)
 
 ## S
 
