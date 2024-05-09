@@ -139,6 +139,8 @@
   * [Dinners](r/recipes/dinners/README.md)
     * [Green Miso Beans](r/recipes/dinners/green-miso-beans.md)
     * [Chickpea Miso Pasta](r/recipes/dinners/chickpea-miso-pasta.md)
+    * [Black Bean Enchiladas](r/recipes/dinners/black-bean-enchiladas.md)
+    * [Sausage and Kale Gnocchi](r/recipes/dinners/sausage-and-kale-gnocchi.md)
 
 ## S
 
