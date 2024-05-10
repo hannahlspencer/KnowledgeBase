@@ -46,6 +46,7 @@
 * [Databases](d/databases/README.md)
   * [Sharding/Data partitioning](d/databases/sharding-data-partitioning.md)
   * [Object Relational Mapping (ORM)](d/databases/object-relational-mapping-orm.md)
+  * [Relational Databases](d/databases/relational-databases.md)
 * [Deadlands](d/deadlands.md)
 * [Distributed Systems](d/distributed-systems/README.md)
   * [Long-Polling, WebSockets, and Server-Sent Events](d/distributed-systems/long-polling-websockets-and-server-sent-events.md)
