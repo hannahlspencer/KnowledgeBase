@@ -141,6 +141,7 @@
     * [Chickpea Miso Pasta](r/recipes/dinners/chickpea-miso-pasta.md)
     * [Black Bean Enchiladas](r/recipes/dinners/black-bean-enchiladas.md)
     * [Sausage and Kale Gnocchi](r/recipes/dinners/sausage-and-kale-gnocchi.md)
+    * [Pork Larb](r/recipes/dinners/pork-larb.md)
 
 ## S
 
