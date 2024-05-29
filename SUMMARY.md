@@ -37,6 +37,7 @@
 * [Cloud Computing](c/cloud-computing/README.md)
   * [Microsoft Azure](c/cloud-computing/microsoft-azure/README.md)
     * [Virtual Machines](c/cloud-computing/microsoft-azure/virtual-machines.md)
+  * [AWS](c/cloud-computing/aws.md)
 * [Concurrency](c/concurrency-1/README.md)
   * [Kotlin Coroutines](c/concurrency-1/kotlin-coroutines.md)
 
@@ -160,3 +161,7 @@
 * [Video games](v/video-games/README.md)
   * [Music](v/video-games/music.md)
 * [Virtual Reality](v/virtual-reality.md)
+
+***
+
+* [Web Dev](web-dev.md)
