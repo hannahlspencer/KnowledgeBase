@@ -9,6 +9,7 @@
 * [Artificial Intelligence](a/artificial-intelligence/README.md)
   * [Functions with chat models](a/artificial-intelligence/functions-with-chat-models.md)
   * [Glossary](a/artificial-intelligence/glossary.md)
+  * [RAG](a/artificial-intelligence/rag.md)
 * [Azdo Pipelines](a/azdo-pipelines.md)
 
 ## B
