@@ -140,6 +140,7 @@
 * [Ruby](r/ruby.md)
 * [Recipes](r/recipes/README.md)
   * [Treats](r/recipes/treats/README.md)
+    * [Tofu chocolate mousse](r/recipes/treats/tofu-chocolate-mousse.md)
     * [Hobnobs](r/recipes/treats/hobnobs.md)
     * [Salty sweet lime biscuits](r/recipes/treats/salty-sweet-lime-biscuits.md)
     * [Scotch pancakes](r/recipes/treats/scotch-pancakes.md)
