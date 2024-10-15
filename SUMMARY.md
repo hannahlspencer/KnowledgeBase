@@ -144,6 +144,7 @@
     * [Salty sweet lime biscuits](r/recipes/treats/salty-sweet-lime-biscuits.md)
     * [Scotch pancakes](r/recipes/treats/scotch-pancakes.md)
   * [Dinners](r/recipes/dinners/README.md)
+    * [Green minestrone](r/recipes/dinners/green-minestrone.md)
     * [Green Miso Beans](r/recipes/dinners/green-miso-beans.md)
     * [Chickpea Miso Pasta](r/recipes/dinners/chickpea-miso-pasta.md)
     * [Black Bean Enchiladas](r/recipes/dinners/black-bean-enchiladas.md)
