@@ -22,6 +22,8 @@
     * [2022](b/books/read/2022.md)
     * [2023](b/books/read/2023.md)
     * [2024](b/books/read/2024.md)
+* [Best Practices](b/best-practices/README.md)
+  * [API design (REST)](b/best-practices/api-design-rest.md)
 
 ## C
 
